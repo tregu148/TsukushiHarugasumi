@@ -59,9 +59,10 @@ This list provides general guidelines and should not be used as legal advice. Si
 このリストは一般的なガイドラインを提供するものであり、法的なアドバイスとしては使用できません。著作権法は状況に応じて異なる解釈を受けることがあるため、不確実な場合は法的な専門家に相談することをお勧めします。
 
 --- 
-
+## 特許
 ⚠️**春霞つくしは特許出願中**です⚠️
-Tsukushi Harugasumi includes inventions that are currently under patent application"
+
+Tsukushi Harugasumi includes inventions that are currently under patent application.
 
 ## 基本的ガイドライン(chatGPT)
 ### 特許権者ができること
