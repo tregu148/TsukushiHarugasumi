@@ -16,6 +16,7 @@ This prompt are protected by copyright laws. Unauthorized reproduction, distribu
 
 ---
 
+## copy right
 Based on Japanese copyright law, the following is a list of generally permitted (OK) and prohibited (NG) actions. However, since copyright law is complex and exceptions or additional conditions may apply in specific cases, it is advisable to seek expert opinion for concrete situations.
 
 ### Permitted Actions (OK)
@@ -58,7 +59,6 @@ This list provides general guidelines and should not be used as legal advice. Si
 
 このリストは一般的なガイドラインを提供するものであり、法的なアドバイスとしては使用できません。著作権法は状況に応じて異なる解釈を受けることがあるため、不確実な場合は法的な専門家に相談することをお勧めします。
 
---- 
 ## 特許
 ⚠️**春霞つくしは特許出願中**です⚠️
 
