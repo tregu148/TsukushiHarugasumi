@@ -1,5 +1,5 @@
 # TsukushiHarugasumi
-春霞つくし
+[春霞つくし](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi)
 
 ## description
 Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.　Chain of Empathy
