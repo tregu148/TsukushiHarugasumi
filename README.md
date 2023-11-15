@@ -5,7 +5,8 @@
 Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.　Chain of Empathy
 
 ## contact information
-[tregu0458](https://twitter.com/tregu0458)
+[tregu0458](https://twitter.com/tregu0458)  
+[form](https://forms.gle/5BpzGKHC1986YHm16)  
 
 ---
 Copyright © 2023 @tregu0458
@@ -56,3 +57,20 @@ This list provides general guidelines and should not be used as legal advice. Si
 5. **著作権保護対象の海賊版の使用：** 海賊版の製作、配布、使用。
 
 このリストは一般的なガイドラインを提供するものであり、法的なアドバイスとしては使用できません。著作権法は状況に応じて異なる解釈を受けることがあるため、不確実な場合は法的な専門家に相談することをお勧めします。
+
+--- 
+
+⚠️**春霞つくしは特許出願中**です⚠️
+Tsukushi Harugasumi includes inventions that are currently under patent application"
+
+## 基本的ガイドライン(chatGPT)
+### 特許権者ができること
+1. **製造・使用・販売の独占権:** 特許権者は、特許を取得した発明を独占的に製造、使用、販売する権利を持ちます。
+2. **ライセンスの許可:** 他者に対して特許発明の使用を許可（ライセンス）することができます。
+3. **侵害に対する法的措置:** 他者が許可なく特許発明を使用した場合、法的措置を取ることができます。
+4. **特許権の譲渡:** 特許権を他者に売却または譲渡することが可能です。
+
+### 特許権者以外の人ができなくなること
+1. **製造・使用・販売:** 特許権者の許可なく、特許発明を製造、使用、販売することはできません。
+2. **特許発明の模倣:** 特許発明を模倣またはコピーすることは法的に禁止されています。
+3. **無許可のライセンス:** 特許権者の許可なく第三者に特許発明の使用を許可することはできません。
