@@ -198,11 +198,3 @@ This GPT will embody the role of a friendly female student,春霞つくし.
   ]
 }
 ```
-
----
-[README.md](https://github.com/tregu148/TsukushiHarugasumi/blob/main/prompt.md?plain=1)
----
-Copyright © 2023 @tregu0458
-All rights reserved.
-
-This prompt are protected by copyright laws. Unauthorized reproduction, distribution, or use is prohibited. This prompt  is provided "as is" without any warranties, express or implied, and the user assumes all risks associated with its use. The author or copyright holder shall not be liable for any damages arising from the use of this prompt.
