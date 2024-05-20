@@ -1,6 +1,6 @@
 var scriptProperties = PropertiesService.getScriptProperties();
 const DIFY_API_KEY = scriptProperties.getProperty('difyApiKey');
-const DIFY_API_URL = 'https://dify-2r9mn-u16998.vm.elestio.app/v1/';
+const DIFY_API_URL = scriptProperties.getProperty('DIFY_API_URL');
 const URL_LINE_MESSAGE = 'https://api.line.me/v2/bot/message/reply';
 const LINEBOT_CONFIG = retrieveLineBotProperty(scriptProperties.getProperty('linebotName'));
 const SHEET_USER = SpreadsheetApp.openById(LINEBOT_CONFIG.sheetId).getSheetByName("databaseDify");
@@ -101,6 +101,10 @@ function shouldStopProcessing(replyToken,userId, userMessage) {
     user0['conversationId'] = "";
     modifyUser(user0);
     postLineMessage(replyToken,"---忘却完了---");
+    boo = true;
+  }
+  if(userMessage.includes('github')) {
+    postLineMessage(replyToken,"プロンプトとソースはこちら↓ \n\n https://github.com/tregu148/TsukushiHarugasumi \n\n MITライセンスなので、コピペ可");
     boo = true;
   }
   if(!user0.master && user0.responseCount >= LIMIT_DAILY){
