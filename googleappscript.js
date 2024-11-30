@@ -169,7 +169,7 @@ function ccc() {
   Logger.log(options);
 
   try {
-    var response = UrlFetchApp.fetch(DIFY_API_URL+"chat-messages", options);
+    var response = UrlFetchApp.fetch(DIFY_API_URL+"/chat-messages", options);
     Logger.log(response);
     var result = JSON.parse(response.getContentText());
     Logger.log(result);
@@ -201,7 +201,7 @@ function sendChatMessage(userMessage,conversation_id,user_id) {
 
 
   try {
-    var response = UrlFetchApp.fetch(DIFY_API_URL + "chat-messages", options);
+    var response = UrlFetchApp.fetch(DIFY_API_URL + "/chat-messages", options);
     var result = "";
     var lines = response.getContentText().split("\n");
 
